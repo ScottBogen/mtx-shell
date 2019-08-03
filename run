@@ -1,0 +1,12 @@
+qemu-system-arm -M versatilepb -m 256M -sd src/sdimage -kernel src/wanix \
+-serial mon:stdio -serial /dev/pts/0
+
+
+
+
+
+ 
+
+
+
+
